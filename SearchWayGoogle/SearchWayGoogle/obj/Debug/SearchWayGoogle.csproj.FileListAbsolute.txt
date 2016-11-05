@@ -1,0 +1,9 @@
+D:\C#\GoogleSearch\SearchWayGoogle\SearchWayGoogle\bin\Debug\SearchWayGoogle.exe.config
+D:\C#\GoogleSearch\SearchWayGoogle\SearchWayGoogle\bin\Debug\SearchWayGoogle.exe
+D:\C#\GoogleSearch\SearchWayGoogle\SearchWayGoogle\bin\Debug\SearchWayGoogle.pdb
+D:\C#\GoogleSearch\SearchWayGoogle\SearchWayGoogle\obj\Debug\SearchWayGoogle.csprojResolveAssemblyReference.cache
+D:\C#\GoogleSearch\SearchWayGoogle\SearchWayGoogle\obj\Debug\SearchWayGoogle.GoogleMapFormSearch.resources
+D:\C#\GoogleSearch\SearchWayGoogle\SearchWayGoogle\obj\Debug\SearchWayGoogle.Properties.Resources.resources
+D:\C#\GoogleSearch\SearchWayGoogle\SearchWayGoogle\obj\Debug\SearchWayGoogle.csproj.GenerateResource.Cache
+D:\C#\GoogleSearch\SearchWayGoogle\SearchWayGoogle\obj\Debug\SearchWayGoogle.exe
+D:\C#\GoogleSearch\SearchWayGoogle\SearchWayGoogle\obj\Debug\SearchWayGoogle.pdb
